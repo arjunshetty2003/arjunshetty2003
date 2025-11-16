@@ -1,15 +1,41 @@
-## Hi 👋, I'm Arjun Shetty
-<!--
-**arjunshetty2003/arjunshetty2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arjun Shetty</h1>
+<h3 align="center">An aspiring software developer from India</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunshetty2003&label=Profile%20views&color=0e75b6&style=flat" alt="arjunshetty2003" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunshetty2003" alt="arjunshetty2003" /></a> </p>
+
+
+	•	🌱 I’m currently learning C, C++, Python, Java
+	•	💬 Ask me about Programming fundamentals, logic building
+	•	📫 Reach me at arjunshetty0312@gmail.com
+	•	⚡ Fun fact: I love learning new things!
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arjun-shetty-89477b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://x.com/arjun_maverick?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunshetty2003&show_icons=true&locale=en&layout=compact" alt="arjunshetty2003" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunshetty2003&show_icons=true&locale=en" alt="arjunshetty2003" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshetty2003&" alt="arjunshetty2003" /></p>
+
+
+<!-- Replace arjunshetty2003, LinkedIn URL, X handle, and email to finalize your profile. -->
