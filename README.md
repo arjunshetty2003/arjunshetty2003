@@ -18,14 +18,14 @@
 <a href="https://www.linkedin.com/in/arjun-shetty-89477b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://x.com/arjun_maverick?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/arjunshetty0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/F89D13" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/arjunshetty0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/F89D13" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 
@@ -49,9 +49,9 @@
 <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/assets/faiss_logo.png" alt="faiss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/ffffff/000000" alt="nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
