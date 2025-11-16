@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Arjun Shetty
 
 <!--
 **arjunshetty2003/arjunshetty2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
