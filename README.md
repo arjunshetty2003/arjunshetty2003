@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/arjun-shetty-89477b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://x.com/arjun_maverick?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/arjunshetty0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="leetcode"/></a>
+<a href="https://leetcode.com/u/arjunshetty2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanchiitvijay" height="30" width="40" /></a>
 </p>
 
 
