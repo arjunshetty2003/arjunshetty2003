@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunshetty2003" alt="arjunshetty2003" /></a> </p>
 
 
-	•	🌱 I’m currently learning Generative AI and Microservices
+	•	🌱 I’m currently learning C, C++, Python, Java
 	•	💬 Ask me about Programming fundamentals, logic building
 	•	📫 Reach me at arjunshetty0312@gmail.com
 	•	⚡ Fun fact: I love learning new things!
